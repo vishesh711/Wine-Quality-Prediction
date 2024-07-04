@@ -111,10 +111,3 @@ The accuracy of the model is evaluated using the accuracy score metric. In this 
 
 A predictive system is built to classify the quality of wine based on user input. The input data is reshaped and passed through the trained model to predict whether the wine quality is good or bad.
 
-## Contributing
-
-Contributions are welcome! Please feel free to submit a pull request or open an issue to improve this project.
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
